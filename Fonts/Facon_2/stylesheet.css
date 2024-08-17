@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Facon';
+    src: url('Facon.eot');
+    src: local('Facon'),
+        url('Facon.eot?#iefix') format('embedded-opentype'),
+        url('Facon.woff') format('woff'),
+        url('Facon.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
