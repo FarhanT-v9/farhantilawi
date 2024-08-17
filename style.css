@@ -50,20 +50,20 @@ a:active{
 }
 @font-face {
     font-family: 'farfar';
-    src: url('/Fonts/farfar.otf') format('truetype');
+    src: url('/farhantilawi/Fonts/farfar.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Facon';
-    src: url('/Fonts/Facon_2/Facon.ttf');
+    src: url('/farhantilawi/Fonts/Facon_2/Facon.ttf');
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Bebas';
-    src: url('/Fonts/BebasNeue.otf');
+    src: url('/farhantilawi/Fonts/BebasNeue.otf');
     font-style: italic;
 }
 
@@ -395,7 +395,7 @@ section {
 
 /*  */
 .about {
-    background: url(BG/BG4.jpg) no-repeat;
+    background: url(/farhantilawi/BG/BG4.jpg) no-repeat;
     background-size: cover;
     min-height: 100vh;
     /* back */
@@ -501,7 +501,7 @@ section {
 }
 
 .plat-sec-back {
-    background: url(BG/BG8.jpg) no-repeat;
+    background: url(/farhantilawi/BG/BG8.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -947,7 +947,7 @@ section {
 /*     Skills    &  and  &     Hobbies    */
 
 .MainSkills {
-    background: url(/BG/BG5.jpg);
+    background: url(/farhantilawi/BG/BG5.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1102,7 +1102,7 @@ section {
 /*          Gallery        */
 
 .photos {
-    background: url(/BG/BG11.jpg) no-repeat;
+    background: url(/farhantilawi/BG/BG11.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -1370,7 +1370,7 @@ section {
 }
 
 .contact-me {
-    background: url(/BG/BG3.png) no-repeat;
+    background: url(/farhantilawi/BG/BG3.png) no-repeat;
     position: relative;
     padding-bottom: 0px 100px;
 }
@@ -1838,7 +1838,7 @@ footer ul {
         flex-wrap: wrap;
         gap: 1rem;
         height: 100vh;
-        background: url(BG/BG1-Mobile.jpg) no-repeat center;
+        background: url(/farhantilawi/BG/BG1-Mobile.jpg) no-repeat center;
         background-size: cover;
         padding: 10%;
     }
