@@ -1176,7 +1176,7 @@ section {
 }
 
 .gallery .image img {
-    width: 124%;
+    width: 75%;
     vertical-align: middle;
     transition: all 0.3s ease;
 }
