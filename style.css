@@ -1190,7 +1190,7 @@ section {
         width: calc(100% / 3);
     }
     .gallery .image img{
-        width: 130%;
+        width: 80%;
     }
 }
 
@@ -1199,7 +1199,7 @@ section {
         width: calc(100% / 2);
     }
     .gallery .image img{
-        width: 130%;
+        width: 70%;
     }
 }
 
@@ -1225,6 +1225,9 @@ section {
 
     .gallery .image {
         width: 100%;
+    }
+    .gallery .image img{
+        width: 130%;
     }
 }
 
