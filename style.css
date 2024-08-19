@@ -1156,7 +1156,7 @@ section {
 
 .gallery .image {
     padding: 7px;
-    width: calc(120% / 5);
+    width: calc(100% / 2);
     overflow: hidden;
 
 }
